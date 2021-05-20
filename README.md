@@ -17,7 +17,7 @@ tags: lecture note
 
 ### 備註
 
-<a name="footnote_gitbook">1</a>: 從 GitBook 平台遷到 HackMD 的，因此格式可能有跑掉
+<a name="footnote_gitbook">1</a>: 多年前在 GitBook 平台做的筆記，後來遷到 HackMD，因此格式可能有跑掉
 
 
 
