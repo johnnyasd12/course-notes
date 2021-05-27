@@ -13,7 +13,10 @@ tags: lecture note
 ### [Linear Algebra - 李宏毅](https://hackmd.io/@johnnyasd12/r16uT-yLw)
 ### [Mathematics for Machine Learning: Multivariate Calculus](https://hackmd.io/@johnnyasd12/rkbhRKq8r)
 
+# My Paper Notes
 
+### [Few-Shot Learning/Meta Learning 相關論文筆記](https://github.com/johnnyasd12/awesome-few-shot-meta-learning/blob/master/README.md)
+### [Model Compression 相關論文筆記](https://hackmd.io/@johnnyasd12/ryhhmfvim)
 
 ### 備註
 
