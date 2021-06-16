@@ -6,17 +6,17 @@ tags: lecture note
 
 [![hackmd-github-sync-badge](https://hackmd.io/beWRYyx8SSqgbzz2m9iSmw/badge)](https://hackmd.io/beWRYyx8SSqgbzz2m9iSmw)
 
-### [機器學習基石 + 機器學習技法 - 林軒田](https://hackmd.io/@johnnyasd12/BJ9bqqevD)
-### [Machine Learning - 李宏毅](https://hackmd.io/@johnnyasd12/BkzF42Jt_) <sup>[1](#footnote_gitbook)</sup>
-### [Deep Learning Specialization - Andrew Ng 吳恩達](https://hackmd.io/@johnnyasd12/HyjsUh_Od) <sup>[1](#footnote_gitbook)</sup>
-### [Algorithms Specialization - Tim Roughgarden, Stanford University](https://github.com/johnnyasd12/algorithms-stanford)
-### [Linear Algebra - 李宏毅](https://hackmd.io/@johnnyasd12/r16uT-yLw)
-### [Mathematics for Machine Learning: Multivariate Calculus](https://hackmd.io/@johnnyasd12/rkbhRKq8r)
+### [機器學習基石 + 機器學習技法 - 林軒田](https://reurl.cc/ogZjEM)
+### [Machine Learning - 李宏毅](https://reurl.cc/LbXEE3) <sup>[1](#footnote_gitbook)</sup>
+### [Deep Learning Specialization - Andrew Ng 吳恩達](https://reurl.cc/NrGWWQ) <sup>[1](#footnote_gitbook)</sup>
+### [Algorithms Specialization - Tim Roughgarden, Stanford University](https://reurl.cc/noZKKd)
+### [Linear Algebra - 李宏毅](https://reurl.cc/gWQdVQ)
+### [Mathematics for Machine Learning: Multivariate Calculus](https://reurl.cc/qgZE7q)
 
 # My Paper Notes
 
-### [Few-Shot Learning/Meta Learning 相關論文筆記](https://github.com/johnnyasd12/awesome-few-shot-meta-learning/blob/master/README.md)
-### [Model Compression 相關論文筆記](https://hackmd.io/@johnnyasd12/ryhhmfvim)
+### [Few-Shot Learning/Meta Learning 相關論文筆記](https://reurl.cc/VER9rZ)
+### [Model Compression 相關論文筆記](https://reurl.cc/noZKe6)
 
 ### 備註
 
